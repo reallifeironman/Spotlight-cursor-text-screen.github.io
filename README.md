@@ -1,1 +1,1 @@
-Live Demo → https://anshumanbahekar.github.io/Spotlight-cursor-text-screen.github.io/
+✨️Live Preview → https://reallifeironman.github.io/Spotlight-cursor-text-screen.github.io/
